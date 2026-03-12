@@ -23,14 +23,10 @@ A specialized utility expansion for the **Meteor Client** (1.21+), designed with
 
 | Module | Description |
 | :--- | :--- |
-| **Moid-Backtrack** | Freezes entity positions by delaying inbound packets. Includes a **Ghost Renderer** to show exactly where to hit. |
 | **Moid-KillAura** | **MASSIVE UPDATE.** Advanced combat automation with highly optimized anti-cheat compatibility and smooth aim logic. |
 | **Moid-TriggerBot** | Precision auto-attack when your crosshair meets an enemy. |
 | **VulcaWeb (NoSlow)** | **NEW.** Prevents slowdown from webs and other blocks. *Recommended maximum: 0.650.* |
-| **Moid-Jump Matrix** | **UPDATED.** Enhanced jump logic now featuring a **Chroma (Rainbow)** effect. |
 | **Moid-Fly** | Optimized flight logic for bypassing movement checks on various servers. |
-| **Moid-Velocity** | Take zero or reduced knockback. Essential for maintaining ground in 1v1s. |
-| **Moid-Reach** | Extends your interaction range, letting you get the first hit every time. |
 
 ### 👁️ Visuals & ESP
 
@@ -38,6 +34,7 @@ A specialized utility expansion for the **Meteor Client** (1.21+), designed with
 | :--- | :--- |
 | **Moid-HUD** | The command center. Shows FPS, Ping, Coords, and Active Modules in a clean, high-performance overlay. |
 | **Moid-HitESP** | Renders a color-fading box exactly where your hits connect. |
+| **Moid Jump Matrix** | Renders a matrix effect when jumping on the floor. |
 | **Moid-GhostESP** | Visualizes the "ghost" positions of players during backtrack or lag spikes. |
 | **Moid-CircleESP** | **PERFORMANCE UPDATE.** Clean, geometric highlights around entities with expanded customization options. |
 | **Moid-Trails** | Leaves a customizable trail behind you or other players to track movement paths. |
@@ -46,6 +43,8 @@ A specialized utility expansion for the **Meteor Client** (1.21+), designed with
 
 | Module | Description |
 | :--- | :--- |
+| **AC-Detector** | A module for finding possible anticheats on servers to exploit them. |
+| **GrimBlink** | A blink module for the GrimAC freezing you in place. |
 | **Moid-TargetFocus** | Locks your camera or priority on a specific entity to ensure they never escape. |
 | **Moid-Fakelag (MoidLag)** | **STABILITY UPDATE.** Intentionally disrupts your own packet flow to confuse opponents. Now crash-proof for 1.21.x. |
 | **Moid-AutoClicker** | A highly customizable click-macro for non-aura combat styles. |
