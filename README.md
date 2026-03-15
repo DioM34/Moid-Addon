@@ -75,5 +75,7 @@ Moid Addon is **Open Source**. We believe in transparent code and community lear
 
 ## 📜 Credits
 - **Base:** [Meteor Client Template](https://github.com/MeteorDevelopment/meteor-addon-template)
-- **Developed by:** Dio_M & Gemini AI
-- **Custom Icon:** Massive shoutout to **TrissiFischi** for the custom design!
+- **Developed by:** Dio_M & Gemini
+- **Custom Icon:** Massive shoutout to [**TrissiFischi**](https://github.com/TrissiFischi) for the custom design!
+- **Copied Modules:** Also a big shoutout to [**nnpg**](https://github.com/realnnpg) for allowing me to copy certain modules from the [Glazed-Client](https://github.com/realnnpg/Glazed))
+ 
