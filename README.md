@@ -1,10 +1,19 @@
 # Moid Addon 
+<img width="256" height="256" alt="Moid-Addon" src="https://github.com/user-attachments/assets/a5fae8da-4d85-4ed8-8217-aef2aa69837b" />
 
 A specialized utility expansion for the **Meteor Client** (1.21+), designed with a focus on performance, internationalization, and "vibe-coded" logic. 
+<div align="center">
 
-> **Compatibility:** Built for Fabric 1.21+. Now supporting versions from **1.21 up to 1.21.11**.
+![Version](https://img.shields.io/github/v/release/DioM34/Moid-Addon?style=for-the-badge&color=A503FC)
+![Downloads](https://img.shields.io/github/downloads/DioM34/Moid-Addon/total?style=for-the-badge&color=FC03BA)
+![Code Size](https://img.shields.io/github/languages/code-size/DioM34/Moid-Addon?style=for-the-badge&color=A503FC)
+![Last Commit](https://img.shields.io/github/last-commit/DioM34/Moid-Addon?style=for-the-badge&color=FC03BA)
 
-<img width="256" height="256" alt="Moid-Addon" src="https://github.com/user-attachments/assets/a5fae8da-4d85-4ed8-8217-aef2aa69837b" />
+[![Discord](https://img.shields.io/discord/1414639616731906121?label=Discord&logo=discord&logoColor=white&style=for-the-badge&color=7289DA)](https://discord.gg/Uq8TRfhHkc)
+![Minecraft](https://img.shields.io/badge/Minecraft-1.21.x-brightgreen?style=for-the-badge&logo=minecraft)
+
+</div>
+
 
 ---
 
