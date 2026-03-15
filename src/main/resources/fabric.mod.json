@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
-  "id": "moid-addon",
-  "version": "1.3",
+  "id": "moid-mddon",
+  "version": "1.4",
   "name": "Moid-Addon",
-  "description": "The official Moid-Addon for Meteor Client. High-end exploits and visuals by Dio_M.",
+  "description": "The official Moid-Addon for Meteor Client. exploits and visuals by Dio_M.",
   "authors": [
     "Dio_M"
   ],
@@ -15,7 +15,7 @@
   "environment": "*",
   "entrypoints": {
     "meteor": [
-      "com.example.addon.AddonTemplate"
+      "com.moid.addon.MoidAddon"
     ]
   },
 "depends": {
