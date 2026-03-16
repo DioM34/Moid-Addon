@@ -18,8 +18,6 @@ A specialized utility expansion for the **Meteor Client** (1.21+), designed with
 </div>
 
 
----
-
 ## 🛠️ Installation
 
 1. **Prerequisites:** Ensure you have [Meteor Client](https://meteorclient.com/) installed for Fabric 1.21.x.
@@ -27,7 +25,6 @@ A specialized utility expansion for the **Meteor Client** (1.21+), designed with
 3. **Move:** Drop the `.jar` into your Minecraft `mods` folder.
 4. **Launch:** Start Minecraft and enable **Moid Addon** in the Meteor modules menu.
 
----
 
 ## 🧩 The Full Suite
 
