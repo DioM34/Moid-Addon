@@ -17,6 +17,14 @@ A specialized utility expansion for the **Meteor Client** (1.21+), designed with
 </div>
 
 
+
+> [!WARNING]
+> ⚠️ "Vibe-Code" Disclaimer
+> This entire project has been **vibecoded** and developed in collaboration with **AI (Gemini)**. 
+> 
+> This project was built through iterative conversation—focusing on functional intent, rapid prototyping, and "vibe" rather than traditional rigid architecture. It is experimental, fast, and constantly evolving. Use it at your own risk, and enjoy the unique logic that comes with AI-driven development.
+
+
 ## 🛠️ Installation
 
 1. **Prerequisites:** Ensure you have [Meteor Client](https://meteorclient.com/) installed for Fabric 1.21.x.
@@ -64,14 +72,6 @@ A specialized utility expansion for the **Meteor Client** (1.21+), designed with
 | **Moid-AutoClicker** | A highly customizable click-macro for non-aura combat styles. |
 | **AntiResourcePack** | A module made for bypassing forced resourcepacks from servers. |
 | **GhostHand** | A module which allows you to open containers through walls. |
-
----
-
-## ⚠️ "Vibe-Code" Disclaimer
-
-> **Note:** This entire project has been **vibecoded** and developed in collaboration with **AI (Gemini)**. 
-> 
-> This project was built through iterative conversation—focusing on functional intent, rapid prototyping, and "vibe" rather than traditional rigid architecture. It is experimental, fast, and constantly evolving. Use it at your own risk, and enjoy the unique logic that comes with AI-driven development.
 
 ---
 
