@@ -72,7 +72,7 @@
   {
     "name": "Ghost-Hand",
     "category": "Combat & Utility",
-    "icon": "fa-hand-ghost",
+    "icon": "fa-ghost",
     "safety": "risky",
     "desc": "Allows you to open and interact with blocks through walls."
   },
