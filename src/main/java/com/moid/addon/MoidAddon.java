@@ -1,6 +1,7 @@
 package com.moid.addon;
 
 import com.moid.addon.modules.*;
+import meteordevelopment.meteorclient.addons.GithubRepo;
 import meteordevelopment.meteorclient.addons.MeteorAddon;
 import meteordevelopment.meteorclient.systems.modules.Category;
 import meteordevelopment.meteorclient.systems.modules.Modules;
@@ -8,8 +9,8 @@ import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
 public class MoidAddon extends MeteorAddon {
-    // Branded logger
-    public static final Logger LOG = LoggerFactory.getLogger("Moid");
+
+    public static final Logger LOG        = LoggerFactory.getLogger("Moid");
     public static final Category CATEGORY = new Category("Moid");
 
     @Override
@@ -17,11 +18,23 @@ public class MoidAddon extends MeteorAddon {
         LOG.info("Initializing Moid Addon...");
 
         Modules m = Modules.get();
-        
+
         // Movement
         m.add(new MoidFly());
         m.add(new VulcanWeb());
-                
+        m.add(new MoidVelocity());
+
+        // Combat & Utility
+        m.add(new MoidLag());
+        m.add(new MoidKillAura());
+        m.add(new MoidAutoClicker());
+        m.add(new ACDetector());
+        m.add(new GrimBlink());
+        m.add(new Triggerbot());
+        m.add(new AntiResourcePack());
+        m.add(new GhostHand());
+        m.add(new MoidAim());
+
         // Visuals & HUD
         m.add(new MoidHUD());
         m.add(new MoidCircleESP());
@@ -35,17 +48,6 @@ public class MoidAddon extends MeteorAddon {
         m.add(new TargetHUD());
         m.add(new LightESP());
         m.add(new FakeScoreboard());
-
-        // Combat & Utility
-        m.add(new MoidLag());
-        m.add(new MoidKillAura());
-        m.add(new MoidAutoClicker());
-        m.add(new ACDetector());
-        m.add(new GrimBlink());
-        m.add(new Triggerbot());
-        m.add(new AntiResourcePack());
-        m.add(new GhostHand());
-        m.add(new MoidAim());
     }
 
     @Override
@@ -54,8 +56,12 @@ public class MoidAddon extends MeteorAddon {
     }
 
     @Override
+    public GithubRepo getRepo() {
+        return new GithubRepo("Moid-M", "Moid-Addon");
+    }
+
+    @Override
     public String getPackage() {
-        // MUST match your actual folder structure in src/main/java
-        return "com.moid.addon"; 
+        return "com.moid.addon";
     }
 }
