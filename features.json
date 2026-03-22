@@ -9,15 +9,15 @@
   {
     "name": "Vulcan-NoSlow",
     "category": "Movement",
-    "icon": "fa-spider-web",
+    "icon": "fa-spider", 
     "safety": "caution",
     "desc": "Reduces resistance in cobwebs for the latest Vulcan Anticheat version."
   },
   {
     "name": "Moid-Velocity",
     "category": "Movement",
-    "icon": "fa-ski-jumping",
+    "icon": "fa-person-skating",
     "safety": "risky",
-    "desc": "Cancels velocity with diffrent settings."
+    "desc": "Cancels velocity with different settings."
   }
 ]
