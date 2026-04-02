@@ -60,7 +60,7 @@ A specialized utility expansion for the **Meteor Client** (1.21+), designed with
 | **ProjectilePredictor** | Predicts where velicity affected entities will land. |
 | **TargetHUD** | An HUD for rendering target information. |
 | **FakeScoreboard** | Fakes information on the scoreboard (customizable). (credits to nnpg) |
-| **TargetHUD** | Optimized rendering lights beneath the floor. good for finding bases. (credits to nnpg) |
+| **LightESP** | Optimized rendering lights beneath the floor. good for finding bases. (credits to nnpg) |
 
 ### ⚙️ Utility & Misc
 
